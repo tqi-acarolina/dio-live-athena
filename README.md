@@ -1,5 +1,5 @@
 # dio-live-athena
-Repositório para a live do dia 01/10/2021 sobre o Amazon Athena
+Repositório dos arquivos de consultas utilizadas no curso DIO Unimed
 
 ### Serviços utilizados nessa atividade prática
  - Amazon S3
